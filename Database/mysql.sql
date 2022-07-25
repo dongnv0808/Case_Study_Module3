@@ -61,6 +61,7 @@ create table tag(
 
 create table discount(
 	id varchar(100) primary key,
+    name varchar(100)),
 	value float not null
 );
 

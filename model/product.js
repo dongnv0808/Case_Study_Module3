@@ -1,1 +1,2 @@
-const Connection = require('connection')
+const Connection = require('./connection');
+
